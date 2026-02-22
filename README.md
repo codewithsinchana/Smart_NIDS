@@ -1,6 +1,5 @@
 # Smart Network Intrusion Detection System :
-
-      A Python-based intrusion detection system that monitors network traffic and detects suspicious behavior such as port scanning.
+    A Python-based intrusion detection system that monitors network traffic and detects suspicious behavior such as port scanning.
 
 **Features**
 - Real-time packet sniffing
@@ -28,5 +27,5 @@
 
   [2026-02-22 14:10:35] Possible Port Scan Detected from 192.168.1.100
 
-Author : Developed by Sinchana T R
+**Author : Developed by Sinchana T R**
 
