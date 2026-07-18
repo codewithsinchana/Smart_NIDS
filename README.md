@@ -65,9 +65,13 @@ confirm alerting works end-to-end.
 4.It will run at http://127.0.0.1:5000
 
 **Frontend**
+npm create vite@latest frontend -- --template react
 1.cd frontend
 2.npm install
 3.npm install axios
-4.npm run dev
-5.It will run at http://localhost:5173
-  
+4.npm install recharts
+5.npm run dev
+6.It will run at http://localhost:5173
+
+Username : admin
+Password : admin123
